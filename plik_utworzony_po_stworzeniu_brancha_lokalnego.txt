@@ -1,0 +1,1 @@
+#Plik stworzony po tym jak na localu zrobiłem branch= nowo-utworzony-branch
