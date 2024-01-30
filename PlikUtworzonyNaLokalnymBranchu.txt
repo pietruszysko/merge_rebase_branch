@@ -1,0 +1,1 @@
+To jest plik utworzony na lokalnych branczu po tym jak na remote ktoś już wrzucił jakieś zmiany 
