@@ -1,1 +1,1 @@
-# merge_rebase_branch
+# Repozytorium do przećwiczenia merge & rebase branchy
